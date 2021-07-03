@@ -256,7 +256,7 @@ nav ul li a:hover {
 .banner-contents h1 {
   width: 100%;
   margin: 15px auto;
-  background-color: rgba(255, 30, 0, 0.884);
+  background-color: rgba(253, 253, 9, 0.884);
   font-size: 2rem;
   padding: 10px;
   border-radius: 5px;
@@ -266,7 +266,7 @@ nav ul li a:hover {
 .banner-contents p {
   width: 300px;
   margin: 15px auto;
-  background-color: rgb(255, 0, 0);
+  background-color: rgb(191, 0, 230);
   padding: 10px;
   font-size: 1.5rem;
   border-radius: 25px;
